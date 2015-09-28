@@ -1,6 +1,8 @@
 h1 {
+	font-family: 'Roboto Condensed', sans-serif;
 	color: blue;
+	display: block;
 	text-align: center;
-	font-size: 70px;
-	margin-top: 17%;
+	font-size: 95px;
+	padding-top: 109px;
 }
