@@ -1,6 +1,15 @@
 
 body {
-	background-color: #CFDEE3;
+	background-size: linear-gradient(#ffa949, transparent 90%);
+	#ffa949 url(http://conniezhou.com/wp-content/uploads/2013/09/google_16-1920x1280.jpg) no-repeat center;
+
+	background-size: cover;
+}
+
+img {
+	margin-bottom: 20px;
+	border-radius: 10px;
+	background-size: cover;
 }
 
 h1 {
